@@ -19,3 +19,8 @@ http://localhost:8080/
 ##############Steps to run the application###########
 
 set the maven goal as spring-boot:run
+
+
+***h2- jdbc url for in memory******
+
+jdbc:h2:mem:testdb
