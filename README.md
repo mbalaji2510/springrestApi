@@ -8,7 +8,7 @@ Spring Boot Aplication
 
 DataBase URL
 
-http://localhost:8080/h2-console/
+http://localhost:8080/myapp/h2-console/
 
 
 Application URL :
